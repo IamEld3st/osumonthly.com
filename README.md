@@ -1,7 +1,7 @@
 # osumonthly.com
 the future face of osumonthly.com
 
-we're currently redesigning the complete infrastructure of the monthly. future editions after site completions will be hosted as an interactive webpage. currently in a work-in-progress state.
+We're currently redesigning the complete infrastructure of the monthly. Future editions after site completions will be hosted as an interactive webpage. Currently in a work-in-progress state.
 
 Read below for contributing guidelines!
 
